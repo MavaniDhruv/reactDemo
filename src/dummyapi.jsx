@@ -45,7 +45,7 @@ function Dummyapi() {
             <Container>
                 <Row>
                     <Col className='category-bg' sm={3}>
-                        <div className="category-title">Category</div>
+                        <div className="category-title">All Category</div>
                         <table width={258}>
                             {
                                 cate.map((item) => {
